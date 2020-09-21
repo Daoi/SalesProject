@@ -1,0 +1,10 @@
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\bin\Debug\SalesProject.exe.config
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\bin\Debug\SalesProject.exe
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\bin\Debug\SalesProject.pdb
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.csprojAssemblyReference.cache
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.Properties.Resources.resources
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.csproj.GenerateResource.cache
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.csproj.CoreCompileInputs.cache
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.exe
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.pdb
+C:\Users\Mrah\source\repos\Sales-Project\SalesProject\SalesProject\obj\Debug\SalesProject.frmShop.resources
